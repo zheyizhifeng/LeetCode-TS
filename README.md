@@ -1,1 +1,1 @@
-# LeetCode-TS
+# LeetCode Solutions in TypeScript
